@@ -28,15 +28,8 @@ DMS.Korea Submit CountBoard
 DMS.Korea 알고리즘별 CV(k=5) 스코어 
 <hr />
 
-LGB PB 0.375 CV 0.378 (CV,k=5)
-
-| 순위 | XGB | CatBoost | liteMOTEE | NN | DAE+NN | imb_xgb | RF |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 1 |  |     |      |      |      |      |      |
-| 2 |  |     |      |      |      |      |      |
-| 3 |  |     |      |      |      |      |      |
-
-
-<hr />
-DMS.Korea LeaderBoard (Blending)
-<hr />
+| date| name | 알고리즘 | CV | LB | 비고 |
+|-----|------|---------|----|-----|-----|
+| 2020-02-14 | 현종열 | LGB | 0.377 | 0.375 | -|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
